@@ -1,4 +1,4 @@
-// Tenth program0
+// Tenth program
 
 'use strict'
 
