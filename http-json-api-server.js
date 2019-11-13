@@ -1,8 +1,4 @@
-// Twelth program
-
-'use strict'
-
-// Eleventh program
+// Thirteen Program
 
 'use strict'
 
